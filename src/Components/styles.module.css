@@ -1,0 +1,13 @@
+
+    .columnResizer {
+      background-color: red;
+       width: 3px;
+       white-space:nowrap;
+    }
+
+
+    .end{
+      overflow-wrap: break-word;
+      overflow-x: scroll; 
+    
+    }
